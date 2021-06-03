@@ -17,7 +17,7 @@ First of all you have to change something to make it work!
 * run this in the terminal in this directory `npm install`
 * Change the .env config! Do not change the name of the variable
 * You will get the Credentials Down!
-* Change the Firebase.js(I will show you) Config to yours!
+* Change the Firebase.js(I will show you down) Config to yours!
 * In Public Folder, you can change the logos and Titles, etc
 * You can design the CSS as you desire
 
@@ -59,9 +59,9 @@ This is the Backend we are using! It has a minimal UI and is good!
 * You will be now also able to manage Profiles and Chats
 
 ## The End
-* In your Terminal Directory type `yarn bulid`
+* In your Terminal Directory type `npm run bulid`
 * This will create a folder which you can deploy in the following (scroll down)
-* You can follow me on [Instagram](https://instagram.com/plbhattad7) and star this Repository!
+* You can follow me on __[Instagram]__(https://instagram.com/plbhattad7) and star this Repository!
 
 ### Bonus - You can host it online!
 You can host it on many WebApp Free Hosting!
