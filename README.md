@@ -61,7 +61,7 @@ This is the Backend we are using! It has a minimal UI and is good!
 ## The End
 * In your Terminal Directory type `npm run bulid`
 * This will create a folder which you can deploy in the following (scroll down)
-* You can follow me on __[Instagram]__(https://instagram.com/plbhattad7) and star this Repository!
+* You can follow me on __[Instagram]__(https://instagram.com/pranavlbhattad) and star this Repository!
 
 ### Bonus - You can host it online!
 You can host it on many WebApp Free Hosting!
